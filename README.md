@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="1100" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
-[![An image of @omghumre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omghumre)](https://holopin.io/@omghumre)
+[![An image of @omghumre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omg12347)](https://holopin.io/@omg12347)
 
 
 <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #f0f0f0;">
