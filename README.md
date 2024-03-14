@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Om Ghumre</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="1100" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+<img align="right" alt="coding" width="1101" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
 [![An image of @omghumre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omg12347)](https://holopin.io/@omg12347)
 
