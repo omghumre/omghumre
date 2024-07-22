@@ -33,10 +33,24 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 [![omghumre's GitHub | Stats](https://stats.quira.sh/omghumre/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=omghumre)
-[![omghumre's GitHub | Dependencies](https://stats.quira.sh/omghumre/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=omghumre)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omghumre&" alt="omghumre" /></p>
 
-[![omghumre's GitHub | Topics Over Time](https://stats.quira.sh/omghumre/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=omghumre)
+---
 
-[![omghumre's GitHub | Languages Over Time](https://stats.quira.sh/omghumre/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=omghumre)
+[![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=omghumre&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<!-- QUOTE:START -->
+<p align="center"><br><i>Those who cannot remember the past are condemned to repeat it.</i><br><i>– Dynamic Programming</i><br></p>
+<!-- QUOTE:END -->
+
+<br>
+<p align="center">
+<a target="_blank" href="https://bento.me/omghumre"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a> &nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/omghumre/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> &nbsp;
+<a target="_blank" href="https://dev.to/omghumre/"><img src="https://img.shields.io/badge/-dev-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> &nbsp;
+<a target="_blank" href="https://twitter.com/omghumre"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> &nbsp;
+<br>
+</p> 
+
