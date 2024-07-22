@@ -8,10 +8,6 @@
 [![An image of @omghumre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omg12347)](https://holopin.io/@omg12347)
 
 
-<div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background-color: #f0f0f0;">
-    <img align="right" src="https://github.com/omghumre/omghumre/assets/97293861/3d66bb9a-3561-484d-b59f-914fa1ad8094" alt="GIF">
-  </div>
-
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python , HTML , CSS ,Javascript**
