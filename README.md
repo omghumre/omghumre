@@ -13,7 +13,7 @@
 - 💬 Ask me about **Python , HTML , CSS ,Javascript**
 
 
-- 📫 How to reach me **omghumre.official@gmail.com**
+- 📫 How to reach me **omghumre74@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
